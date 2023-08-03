@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently studying Computer Science at URI. 
+
 
 <!--
 **J1A2D3/J1A2D3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
